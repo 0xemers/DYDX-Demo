@@ -1,0 +1,36 @@
+UNI 牛逼的
+
+TOKEN  A
+
+我 100
+你 100 
+
+我或者你
+
+我 pool P 【TOKEN A  +  USDC/ETH/WBTC/BNB】  UNI FContract add liquidity  增加流动性  create pool
+
+pool本质上是个合约， 制式
+
+
+POOL 代码 是差不多的， 
+
+
+
+
+Token可以流通了，  
+
+
+
+
+UNIV2
+
+1. Trade
+
+2. AddLiquidity [TOEKN A  + ETH]  add liquidity
+ 
+
+
+Uni的 F-Contract  创建了 我们的P-Contract 【TokenA+TokenB】
+
+
+他 Swap-Contract【Univ2Router， 1inchrouter】 进行 Swap  这里和我们的P-Contract有一个 Internal Tx
